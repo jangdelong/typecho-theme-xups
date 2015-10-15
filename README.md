@@ -1,0 +1,9 @@
+### xups主题
+* 作者：Jelon
+* 版本：0.1
+* 个人主页：http://jelon.in
+* 本博客主题是基于Typecho博客程序
+	* Typecho官网http://typecho.org/
+* 本主题使用方法
+	* 找到/usr/themes目录
+	* 将主题解压后直接放到该themes目录下
